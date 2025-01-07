@@ -1,0 +1,47 @@
+Install Jenkins on AWS
+
+
+Step - 1 Install Java
+
+Update your system
+
+#sudo apt update
+
+Install java
+
+#sudo apt install openjdk-17-jre -y
+#sudo apt install openjdk-11-jdk -y
+
+Validate Installation
+
+#java -version
+
+Now java is install min your system so..
+
+Now we configure the file
+
+ #sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
+    https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+
+ #echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \
+    https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+    /etc/apt/sources.list.d/jenkins.list > /dev/null
+
+ #curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+
+ #echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]  https://pkg.jenkins.io/debian-stable binary/ | sudo tee          /etc/apt/sources.list.d/jenkins.list > /dev/null
+
+sudo apt-get update
+  sudo apt-get install fontconfig openjdk-17-jre
+  sudo apt-get install Jenkins
+
+systemctl start jenkins
+systemctl enable Jenkins
+
+copy the ip address with port 8080 and paste the key this one 
+
+# sudo cat /var/lib/jenkins/secrets/initialAdminPassword  [this location have the password of your jenkins]
+
+
+
+
