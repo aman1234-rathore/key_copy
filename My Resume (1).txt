@@ -1,0 +1,134 @@
+Aman Rathore
+
+
+aman2000rathore2000@gmail.com
+8982639202
+Jabalpur, India
+https://www.linkedin.com/in/aman-rathore-3a2587201
+https://github.com/aman1234-rathore
+
+
+
+------------------------
+Software Engineer
+
+
+------------------------
+DevOps professional with 2 years of experience in CI/CD pipelines, cloud infrastructure, and automation. Skilled in tools like Docker, Kubernetes, Terraform, and Ansible, with expertise in scripting, monitoring, and seamless deployments. Eager to drive innovation and optimize workflows through advanced DevOps practices. 
+
+
+Work Experience
+------------------------
+Senior Software Engineer
+Capgemini
+02/2024 - Present
+Mumbai, Maharashtra
+Achievements/Tasks
+- Designed and managed CI/CD pipelines using Jenkins and GitLab, automating build, test, and deployment processes, reducing deployment time by 50%. This streamlined approach resulted in an average of 10 deployments per week, compared to the previous manual process of 5 deployments per week. 
+- Built Docker images and managed containerized deployments, ensuring consistency across development and production environments, reducing configuration drift by 30%. 
+- Monitored containerized applications using Prometheus and Grafana, providing actionable insights for performance optimization, resulting in a 25% improvement in system reliability. 
+- Created, modified, and tested application packages using InstallShield and Repackager to ensure smooth deployments. 
+- Developed MSI and MST packages, reducing post-deployment issues by 30% through tailored installations. 
+- Collaborated with QA and development teams to resolve packaging issues and ensure compatibility across Windows 10 and Windows Server 2016. 
+- Automated packaging tasks, improving efficiency and reducing packaging time by 20%. Conducted testing on MSI packages for functionality, permissions, and configurations before deployment. 
+
+
+
+Senior Software Engineer
+Capgemini
+02/2024 - Present
+Mumbai, Maharashtra
+Achievements/Tasks
+- Designed and managed CI/CD pipelines using Jenkins and GitLab, automating build, test, and deployment processes, reducing deployment time by 50%. This streamlined approach resulted in an average of 10 deployments per week, compared to the previous manual process of 5 deployments per week. 
+- Built Docker images and managed containerized deployments, ensuring consistency across development and production environments, reducing configuration drift by 30%. 
+- Monitored containerized applications using Prometheus and Grafana, providing actionable insights for performance optimization, resulting in a 25% improvement in system reliability. 
+
+
+
+
+
+
+Education
+------------------------
+B.tech
+Shri Ram Group of Institutions
+04/2018 - 07/2022
+Computer Science
+
+
+Higher Secondary Certificate (HSC)
+Central Academy School
+03/2018
+Courses
+
+
+
+
+
+Skills
+------------------------
+-Ansible
+-AWS
+-Docker
+-GitLab
+-Grafana
+-InstallShield
+-Jenkins
+-Kubernetes
+-Linux (Ubuntu, CentOS)
+-Nginx
+-PowerShell
+-Prometheus
+-Python
+-Repackager
+-SailPoint
+-Saviynt
+-SonarQube
+-Terraform
+
+
+
+Personal Projects
+------------------------
+End-to-End DevOps Implementation for E-Commerce Platform
+05/2024 - 07/2024
+- Streamlined the software development lifecycle by setting up a complete CI/CD pipeline using Jenkins and GitLab. 
+- Containerized applications using Docker and orchestrated them with Kubernetes for scalability and fault tolerance. 
+- Incorporated SonarQube for continuous code quality checks and security analysis. 
+
+
+Enterprise-Scale Infrastructure Automation on AWS
+12/2023 - 02/2024
+- Designed and implemented a highly available and scalable infrastructure on AWS using Terraform for provisioning and Ansible for configuration management. 
+- Automated deployment pipelines using Jenkins, enabling zero-downtime updates for applications deployed on EC2 instances. 
+- Integrated Prometheus and Grafana for monitoring infrastructure performance and Nginx as a reverse proxy for enhanced application security. 
+
+
+
+
+
+Achievements
+------------------------
+2024 Rockstar of the Year
+<!--StartFragment--> Recognized for exceptional performance, innovation, and leadership in driving key projects and initiatives. <!--EndFragment-->
+
+
+
+
+
+Languages
+------------------------
+-English- (80/100)
+-Hindi- (80/100)
+
+
+
+Interests
+------------------------
+-Blogging
+-Painting
+-Photography
+-Public Speaking
+
+
+
